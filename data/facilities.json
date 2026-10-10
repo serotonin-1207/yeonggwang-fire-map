@@ -1,0 +1,134 @@
+{
+  "retrievedAt": "2026-09-23T05:57:33.142Z",
+  "license": "ODbL 1.0",
+  "source": "© OpenStreetMap contributors / OSM API / Nominatim",
+  "coverage": "공개 지도에서 선별한 주요 시설. 전체 시설 목록 아님.",
+  "bounds": [
+    [
+      125.6742578,
+      35.1582316
+    ],
+    [
+      126.6447988,
+      35.5475501
+    ]
+  ],
+  "districts": [
+    {
+      "name": "묘량면",
+      "lng": 126.55542,
+      "lat": 35.24867,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416269"
+    },
+    {
+      "name": "홍농읍",
+      "lng": 126.4455413,
+      "lat": 35.3955739,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416270"
+    },
+    {
+      "name": "불갑면",
+      "lng": 126.51253,
+      "lat": 35.21107,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416272"
+    },
+    {
+      "name": "염산면",
+      "lng": 126.36089,
+      "lat": 35.22182,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416273"
+    },
+    {
+      "name": "낙월면",
+      "lng": 126.0363954,
+      "lat": 35.3412759,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416275"
+    },
+    {
+      "name": "군서면",
+      "lng": 126.468,
+      "lat": 35.26266,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416278"
+    },
+    {
+      "name": "법성면",
+      "lng": 126.46815,
+      "lat": 35.35449,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416281"
+    },
+    {
+      "name": "백수읍",
+      "lng": 126.4206094,
+      "lat": 35.2830584,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416284"
+    },
+    {
+      "name": "대마면",
+      "lng": 126.58881,
+      "lat": 35.30034,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416288"
+    },
+    {
+      "name": "군남면",
+      "lng": 126.44017,
+      "lat": 35.23129,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416297"
+    },
+    {
+      "name": "영광읍",
+      "lng": 126.5100626,
+      "lat": 35.2764376,
+      "sourceUrl": "https://www.openstreetmap.org/relation/18416300"
+    }
+  ],
+  "facilities": [
+    {
+      "id": "osm-way-1202219182",
+      "name": "영광소방서 백수119지역대",
+      "category": "fire",
+      "lng": 126.4244074,
+      "lat": 35.2806662,
+      "address": "영광군 백수읍 백수로10길 57",
+      "phone": "+82 061-350-0970",
+      "source": "OpenStreetMap",
+      "sourceUrl": "https://www.openstreetmap.org/way/1202219182",
+      "note": "공개 지도에서 선별 등록 · 시설 전체 목록이 아닙니다. 운영 여부와 위치는 현장 확인이 필요합니다."
+    },
+    {
+      "id": "osm-node-5422093906",
+      "name": "영광소방서 법성119지역대",
+      "category": "fire",
+      "lng": 126.4536142,
+      "lat": 35.3590268,
+      "address": "영광군 법성면 샘목로 13",
+      "phone": "+820613500973",
+      "source": "OpenStreetMap",
+      "sourceUrl": "https://www.openstreetmap.org/node/5422093906",
+      "note": "공개 지도에서 선별 등록 · 시설 전체 목록이 아닙니다. 운영 여부와 위치는 현장 확인이 필요합니다."
+    },
+    {
+      "id": "osm-way-921284481",
+      "name": "영광군청",
+      "category": "public",
+      "lng": 126.5120449,
+      "lat": 35.2772832,
+      "address": "영광군 영광읍 중앙로 203",
+      "phone": "+82061-350-5114",
+      "source": "OpenStreetMap",
+      "sourceUrl": "https://www.openstreetmap.org/way/921284481",
+      "note": "공개 지도에서 선별 등록 · 시설 전체 목록이 아닙니다. 운영 여부와 위치는 현장 확인이 필요합니다."
+    },
+    {
+      "id": "osm-way-921284445",
+      "name": "영광군보건소",
+      "category": "medical",
+      "lng": 126.5041983,
+      "lat": 35.2746774,
+      "address": "영광군보건소, 신남로3길, 남천리, 영광읍, 영광군, 전남광주통합특별시, 57036, 대한민국",
+      "phone": "",
+      "source": "OpenStreetMap",
+      "sourceUrl": "https://www.openstreetmap.org/way/921284445",
+      "note": "공개 지도에서 선별 등록 · 시설 전체 목록이 아닙니다. 운영 여부와 위치는 현장 확인이 필요합니다."
+    }
+  ]
+}
