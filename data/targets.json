@@ -5,13 +5,111 @@
       "name": "영광군청",
       "address": "영광군 영광읍 중앙로 203",
       "lng": 126.5120449,
-      "lat": 35.2772832
+      "lat": 35.2772832,
+      "registerSnapshot": {
+        "address": "전남광주통합특별시 영광군 영광읍 무령리 198-4",
+        "retrievedAt": "2026-11-12T02:10:25.703Z",
+        "totalCount": 1,
+        "items": [
+          {
+            "bldNm": " ",
+            "dongNm": "별관동",
+            "platPlc": "전남광주통합특별시 영광군 영광읍 무령리 198-4번지",
+            "newPlatPlc": "전남광주통합특별시 영광군 중앙로 203 (영광읍 무령리)",
+            "mainPurpsCdNm": "업무시설",
+            "strctCdNm": "일반철골구조",
+            "heit": 13.65,
+            "grndFlrCnt": 3,
+            "ugrndFlrCnt": 0,
+            "totArea": 948.01,
+            "useAprDay": "20180109",
+            "emgenUseElvtCnt": 0
+          }
+        ]
+      }
     },
     {
       "name": "영광군보건소",
-      "address": "영광군보건소, 신남로3길, 남천리, 영광읍, 영광군, 전남광주통합특별시, 57036, 대한민국",
+      "address": "영광군 영광읍 신남로4길 17",
       "lng": 126.5041983,
-      "lat": 35.2746774
+      "lat": 35.2746774,
+      "registerSnapshot": {
+        "address": "전남광주통합특별시 영광군 영광읍 남천리 326-5",
+        "retrievedAt": "2026-11-12T02:10:25.724Z",
+        "totalCount": 5,
+        "items": [
+          {
+            "bldNm": " ",
+            "dongNm": "치매안심센터",
+            "platPlc": "전남광주통합특별시 영광군 영광읍 남천리 326-5번지",
+            "newPlatPlc": "전남광주통합특별시 영광군 신남로4길 17 (영광읍 남천리)",
+            "mainPurpsCdNm": "업무시설",
+            "strctCdNm": "철근콘크리트구조",
+            "heit": 19.75,
+            "grndFlrCnt": 4,
+            "ugrndFlrCnt": 0,
+            "totArea": 953.4,
+            "useAprDay": "20190520",
+            "emgenUseElvtCnt": 0
+          },
+          {
+            "bldNm": " ",
+            "dongNm": " ",
+            "platPlc": "전남광주통합특별시 영광군 영광읍 남천리 326-5번지",
+            "newPlatPlc": "전남광주통합특별시 영광군 신남로4길 17 (영광읍 남천리)",
+            "mainPurpsCdNm": "제1종근린생활시설",
+            "strctCdNm": "철근콘크리트구조",
+            "heit": 9.65,
+            "grndFlrCnt": 2,
+            "ugrndFlrCnt": 1,
+            "totArea": 750.05,
+            "useAprDay": "20091102",
+            "emgenUseElvtCnt": 0
+          },
+          {
+            "bldNm": "선별진료소",
+            "dongNm": "주4",
+            "platPlc": "전남광주통합특별시 영광군 영광읍 남천리 326-5번지",
+            "newPlatPlc": "전남광주통합특별시 영광군 신남로4길 17 (영광읍 남천리)",
+            "mainPurpsCdNm": "제1종근린생활시설",
+            "strctCdNm": "철근콘크리트구조",
+            "heit": 8.8,
+            "grndFlrCnt": 2,
+            "ugrndFlrCnt": 0,
+            "totArea": 280.495,
+            "useAprDay": "20220805",
+            "emgenUseElvtCnt": 0
+          },
+          {
+            "bldNm": "영광군보건소",
+            "dongNm": " ",
+            "platPlc": "전남광주통합특별시 영광군 영광읍 남천리 326-5번지",
+            "newPlatPlc": "전남광주통합특별시 영광군 신남로4길 17 (영광읍 남천리)",
+            "mainPurpsCdNm": "업무시설",
+            "strctCdNm": "벽돌구조",
+            "heit": 0,
+            "grndFlrCnt": 1,
+            "ugrndFlrCnt": 0,
+            "totArea": 72,
+            "useAprDay": " ",
+            "emgenUseElvtCnt": 0
+          },
+          {
+            "bldNm": "영광군보건소",
+            "dongNm": " ",
+            "platPlc": "전남광주통합특별시 영광군 영광읍 남천리 326-5번지",
+            "newPlatPlc": "전남광주통합특별시 영광군 신남로4길 17 (영광읍 남천리)",
+            "mainPurpsCdNm": "업무시설",
+            "strctCdNm": "철근콘크리트구조",
+            "heit": 11.65,
+            "grndFlrCnt": 2,
+            "ugrndFlrCnt": 1,
+            "totArea": 1564,
+            "useAprDay": "20000417",
+            "emgenUseElvtCnt": 0
+          }
+        ]
+      }
     }
   ]
 }
